@@ -5,7 +5,7 @@
 class Drw < Formula
   desc "docker run wrapper"
   homepage "https://github.com/m3y/docker-run-wrapper"
-  url "https://github.com/m3y/docker-run-wrapper/archive/v0.1tar.gz"
+  url "https://github.com/m3y/docker-run-wrapper/archive/v0.1.tar.gz"
   sha256 "275c348704dc272cc160be324fded94cea0ed930b10cca91b687d61494597255"
 
   def install
